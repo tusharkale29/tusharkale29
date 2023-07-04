@@ -6,8 +6,6 @@
 
 - 📫 How to reach me **tushardkale29@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1DF-KJjZJyHPTSmB3NV5UGPdMVxs3Kvpg/view?usp=share_link](https://drive.google.com/file/d/1DF-KJjZJyHPTSmB3NV5UGPdMVxs3Kvpg/view?usp=share_link)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@tusharkale29" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@tusharkale29" height="30" width="40" /></a>
